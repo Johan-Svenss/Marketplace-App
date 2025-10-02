@@ -13,6 +13,10 @@
             color: #ffffff;
             text-align: center;
             padding: 20px;
+            margin-left: 10px; 
+            margin-right: 10px;
+            margin-top: 10px;
+            border-radius: 5px;
         }
 
         /* 3. Section Styles */
@@ -21,6 +25,8 @@
             padding: 20px;
             background-color: #fff;
             border-radius: 5px;
+            margin-left: 10px; 
+            margin-right: 10px;
         }
 
         /* 4. Heading Styles */
@@ -76,4 +82,10 @@
         .container {
            
           text-align: center;
+        }
+
+
+
+        .bg1 {
+            background-color: #0a06ec;
         }
